@@ -1,0 +1,187 @@
+body {
+	position: absolute;
+	margin: 0;
+	min-width: 1650px;
+	width: 900px;
+	height: 4759px;
+	font-family: "Gilroy-Bold", "Gilroy-Medium", sans-serif;
+	font-size: 18px;
+	line-height: 22px;
+	background-position: center;
+}
+
+.container {
+	max-width: 1408px;
+	margin: 0 auto;
+	padding: 0 16px; 
+}
+
+.line {
+	position: relative;
+	border: 1px solid #828282;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+	top: 87.94px;
+	width: 940.6px;
+	left: 155.69px;
+}
+
+.header-page a {
+	position: relative;
+	margin-right: 155.56px;
+	font-size: 18px;
+	top: 32.99px;
+	left: 155.69px;
+	text-decoration: none;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: #828282;
+
+}
+
+.header-page a:focus,
+.header-page a:hover {
+	color: #070707;
+}
+
+.page-li {
+	position: absolute;
+	left: 16.57%;
+	right: 74.08%;
+	top: 2.69%;
+	bottom: 94.82%;
+	font-family: Gilroy-Bold;
+	font-size: 47.3392px;
+	line-height: 59px;
+	
+}
+.page .page-lil {
+	position: absolute;
+	left: 700px;
+	right: 805px;
+	top: 4.55%;
+	bottom: 95.22%;
+	font-family: Gilroy-Medium;
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.page-ll {
+	position: absolute;
+	left: 750px;
+	top: -215px;
+	right: -1.49%;
+	font-size: 16px;
+	line-height: 20px
+	color: #828282;
+	transform: rotate(-90deg);
+}
+
+.user-image {
+	position: absolute;
+	margin: 0;
+	width: 943.61px;
+	height: 387px;
+	left: 275.69px;
+	top: 325px;
+	background-image: url("img/user.svg");
+}
+
+.page-qq {
+	position: absolute;
+	width: 1645px;
+	height: 506px;
+	left: 0px;
+	top: 768px;
+  	background-color: #F6F6F6;
+}
+
+.subheading {
+	position: absolute;
+	width: 155px;
+	top: 90.25px;
+	left: 645px;
+	font-size: 33px;
+	line-height: 42px;
+	text-align: center;
+}
+.page-qq p { 
+	position: absolute;
+	top: 181.25px;
+	width: 485.34px;
+	height: 218px;
+	left: 485px;
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+}
+
+.page-bb .page-bi {
+	position: absolute;
+	left: 550.75px;
+	right: 45.59%;
+	top: 1365px;	
+	bottom: 70.77%;
+	font-size: 33px;
+	line-height: 42px;
+	text-align: center;
+}
+
+.page-bb p {
+	position: absolute;
+	left: 609.53px;
+	top: 1460.14px;
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+}
+
+.page-bb img.psq {
+	position: absolute;
+	top: 1600px;
+	left: 250px;
+}
+
+.page-bb img.aiq {
+	position: absolute;
+	top: 1600px;
+	left: 500px;
+}
+
+.page-bb img.aeq {
+	position: absolute;
+	top: 1600px;
+	left: 750px;
+}
+
+.page-bb img.fgq {
+	position: absolute;
+	top: 1600px;
+	left: 1000px;
+}
+
+.page-bq {
+	position: absolute;
+	width: 1645px;
+	height: 2253px;
+	left: 0px;
+	top: 1884px;
+	background: #F6F6F6;
+}
+
+.page-bq .page-gq{
+	position: absolute;
+	top: 112.93px;
+	left: 659.75px;
+	font-size: 33px;
+	line-height: 42px;
+	text-align: center;
+}
+
+.hero-image {
+	position: absolute;
+	width: 936px;
+	height: 510px;
+	top: 250px;
+	left: 200.71px;
+	background-image: url("img/fashion.svg");
+}
