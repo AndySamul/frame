@@ -7,6 +7,7 @@ body {
 	font-family: "Gilroy-Bold", "Gilroy-Medium", sans-serif;
 	font-size: 18px;
 	line-height: 22px;
+	background-color: #2F4F4F;
 	background-position: center;
 }
 
@@ -184,4 +185,98 @@ body {
 	top: 250px;
 	left: 200.71px;
 	background-image: url("img/fashion.svg");
+}
+
+.hero-images {
+	position: absolute;
+	width: 936px;
+	height: 510px;
+	top: 910px;
+	left: 200.71px;
+	background-image: url("img/reebok.svg");
+}
+
+.hero-imagess {
+	position: absolute;
+	width: 936px;
+	height: 510px;
+	top: 1550px;
+	left: 200.71px;
+	background-image: url("img/braun.svg");
+}
+
+.page-bq a.nn {
+	position: absolute;
+	top: 820px;
+	left: 589px;
+	font-size: 18px;
+	text-align: center;
+	color: #070707;
+}
+
+.page-bq a.nq {
+	position: absolute;
+	top: 1480px;
+	left: 609px;
+	font-size: 18px;
+	text-align: center;
+	color: #070707;
+}
+
+.page-bq a.nz {
+	position: absolute;
+	top: 2120px;
+	left: 609px;
+	font-size: 18px;
+	text-align: center;
+	color: #070707;
+}
+
+.page-pi .page-as {
+	position: absolute;
+	top: 4251.24px;
+	left: 648.69px;
+	font-size: 34px;
+	text-align: center;
+}
+
+.page-pi p {
+	position: absolute;
+	width: 275.14px;
+	left: 589.53px;
+	top: 4354.14px;
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+}
+
+.hero-imagesss {
+	position: absolute;
+	width: 342.18px;
+	height: 40.92px;
+	left: 512.29px;
+	top: 4535.78px;
+	background-image: url("img/group.svg");
+}
+
+.page-pi .buttonn {
+	position: absolute;
+  margin: 0;
+  padding: 8px 24px;
+  left: 65px;
+  top: 80px;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: #070707;
+  border-radius: 24px;
+}
+
+.page-pi p.zz {
+	position: absolute;
+	left: 634px;
+	width: 183px;
+	top: 4630px;
+	font-size: 14px;
+	line-height: 17px;
+	text-align: center;
 }
